@@ -1,5 +1,6 @@
 ### Jiseong Han
-
+- 🌱 I’m currently learning RL
+- 💬 Ask me about Anything
 
 <!--
 **jiseongHAN/jiseongHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
