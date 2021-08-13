@@ -1,5 +1,5 @@
 ### Jiseong Han
-[![Jiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiseongHAN&theme=dracula)]
+![Jiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiseongHAN&theme=dracula)
 
 - 🌱 I’m currently learning RL
 - 💬 Ask me about Anything
