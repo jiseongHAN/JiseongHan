@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning RL
 - 💬 Ask me about Anything
-- 🔭 I’m currently working on [Medipixel](https://medipixel.io/)
 - 📫 How to reach me: **wltjd802@gmail.com**
+- 
 <!--
 **jiseongHAN/jiseongHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
